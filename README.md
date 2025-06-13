@@ -3,6 +3,7 @@
 # proyecto00
 Proyecto 00. Métodos Numéricos Básicos
 # Satellite Orbit Simulation
+![Satellite Orbit Simulation](solar.png)
 
 This Python script simulates the orbit of a satellite using Kepler's laws. It computes the satellite’s position at a given time, plots its full orbital path, and calculates when the satellite reaches a specified radial distance.
 
